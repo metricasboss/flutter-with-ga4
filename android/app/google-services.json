@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547022925294",
+    "project_id": "futter-9367c",
+    "storage_bucket": "futter-9367c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547022925294:android:85e7627c4a522e78c632ff",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYaBCvPcw_wKDWd30IdpV-lIrv9vJyALA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
